@@ -7,3 +7,11 @@ table {
     table-layout: auto;
     align-items: baseline;
 }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  h3 {
+      font-size: 20px;
+  }
+  
