@@ -11,7 +11,8 @@ table {
     margin-left: 150px;
 }
 table, th, td {
-    border: 1px #000000;
+    border: 1px 
+    border-color: #000000;
     border-collapse: collapse;
   }
   h3 {
