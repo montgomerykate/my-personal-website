@@ -1,11 +1,14 @@
 body {
     text-align: center;
     background-color: #B2AC88;
+    margin: 15px;
+    margin-top: 25px;
 }
 table {
     border: 2px;
     table-layout: auto;
     align-items: baseline;
+    margin-left: 150px;
 }
 table, th, td {
     border: 1px solid black;
