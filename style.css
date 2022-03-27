@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: #B2AC88;
+}
+table {
+    border: 2px;
+    table-layout: auto;
+    align-items: baseline;
+}
